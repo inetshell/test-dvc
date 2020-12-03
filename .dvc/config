@@ -1,0 +1,4 @@
+[core]
+    remote = gsdata
+['remote "gsdata"']
+    url = gs://test-dvc-20201129/data
