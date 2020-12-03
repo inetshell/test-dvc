@@ -1,4 +1,4 @@
-file = open("data.txt","r")
+file = open("data/file.txt","r")
 
 # Count lines
 nonempty_lines = [line.strip("\n") for line in file if line != "\n"]
